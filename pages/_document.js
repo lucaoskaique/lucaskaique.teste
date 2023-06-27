@@ -19,6 +19,7 @@ export default function Document() {
         <meta property="og:image" content={meta.image} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@lucaoskaique" />
+        <meta name="twitter:image:alt" content="Lucas Kaique - pysales photo"></meta>
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
