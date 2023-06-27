@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Lucas Kaíque - Software Engineer, Event Producer and DJ',
     description: 'Software Engineer, Event Producer and DJ in my spare time.',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: 'https://res.cloudinary.com/lucaos/image/upload/v1687836847/lucaoskaique/pysales_Carnaval_PLANO_2020_-_7_fhn3rb.jpg'
   }
 
   return (
