@@ -1,0 +1,21 @@
+{
+  "name": "Lucas Kaique - Software Engineer, Event Producer and DJ",
+  "short_name": "Lucas Kaique",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/lucaos/image/upload/c_thumb,w_200,g_face/v1687836847/lucaoskaique/pysales_Carnaval_PLANO_2020_-_7_fhn3rb.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://res.cloudinary.com/lucaos/image/upload/c_thumb,w_200,g_face/v1687836847/lucaoskaique/pysales_Carnaval_PLANO_2020_-_7_fhn3rb.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#ffffff",
+  "description": "Lucas Kaique - Software Engineer, Event Producer and DJ.",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
