@@ -1,5 +1,5 @@
 ---
-title: 'UK Garage em 2023: Evolução Contínua e Reinvenção Vibrante'
+title: 'UK Garage em 2023: Transformação Contínua e Reinvenção Vibrante'
 date: '2023-06-30'
 description: UK Garage manteve sua relevância, sempre evoluindo e reinventando-se para conquistar novas gerações de amantes da música..
 tag: eletronicmusic
