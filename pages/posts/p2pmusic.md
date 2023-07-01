@@ -4,7 +4,6 @@ date: '2023-06-30'
 description: 'Este post explora o conceito de software P2P e seu profundo impacto na comunidade de DJs e música.'
 tag: eletronicmusic, soulseek, nicotine+, napster, P2P, music, dj, musictech
 author: You
-image: 'https://uploads-ssl.webflow.com/60a3c6ed0d50ee830d47b5bf/6266ae53a8b4d759ff96e8f5_Blog2_cover.png'
 ---
 
 ## Índice
