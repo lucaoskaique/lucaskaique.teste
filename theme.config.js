@@ -12,7 +12,7 @@ export default {
         @media screen and (max-width: 480px) {
           article {
             padding-top: 2rem;
-            padding-bottom: 4rem;
+            padding-bottom: 2rem;
           }
         }
       `}</style>
