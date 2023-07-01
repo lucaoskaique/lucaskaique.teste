@@ -3,7 +3,8 @@ import Head from 'next/head'
 import { DefaultSeo } from 'next-seo'
 
 import '../styles/main.css'
-import nextSeoConfig from '../next-seo.config.js'
+
+import SEO from '../next-seo.config'
 
 export default function Nextra({ Component, pageProps }) {
   return (
@@ -35,7 +36,7 @@ export default function Nextra({ Component, pageProps }) {
           name="description"
           content="Software Engineer, Event Producer and DJ in my spare time."
         ></meta>
-        <DefaultSeo {...nextSeoConfig} />
+        <DefaultSeo {...SEO} />
       </Head>
       <Component {...pageProps} />
     </>
